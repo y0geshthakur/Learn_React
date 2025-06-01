@@ -1,4 +1,4 @@
-1. If you are rendering page App.jsx in your application, firstly wrap the <App> with BrowserRouter.
+1. If you are rendering page App.jsx in your application, firstly wrap the `<App>` with BrowserRouter.
 
 Routes, Route
 1. Import Routes, Route in your App.jsx.
